@@ -131,7 +131,7 @@ public class Profile extends JFrame {
         add(informationPanel);
         {
 
-            ImageIcon p1 = new ImageIcon(ClassLoader.getSystemResource("images/profilePicture.png"));
+            ImageIcon p1 = new ImageIcon(ClassLoader.getSystemResource("images/profileIc.png"));
             Image p2 = p1.getImage().getScaledInstance(150,170,Image.SCALE_SMOOTH);
             ImageIcon p3 = new ImageIcon(p2);
 

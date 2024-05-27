@@ -663,6 +663,6 @@ public class MainPage extends JFrame{
     }
 
     public static void main(String[] args) {
-        new MainPage("6400520604","");
+        new MainPage("6400520604","Jha anant dinesh");
     }
 }
